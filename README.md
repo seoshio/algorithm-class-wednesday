@@ -8,4 +8,4 @@
 
 <img width="577" height="430" alt="과제 스크린샷" src="https://github.com/user-attachments/assets/c9321885-cfc9-4019-9bae-acf999c7278d" />
 <img width="297" height="171" alt="과제 스크린샷2" src="https://github.com/user-attachments/assets/38cf57d9-597f-4685-b270-5a7e528bd49b" />
-<img width="508" height="737" alt="과제 스크린샷3" src="https://github.com/user-attachments/assets/05bc2f11-31c8-42d7-8cdb-96f601635ff2" />
+
