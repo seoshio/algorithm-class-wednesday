@@ -1,8 +1,7 @@
 # algorithm-class-wednesday
 
 24학번 김현서 SW알고리즘[002]
-알고리즘 factorial_app.py 과제 제출 완료하였습니다.
-"factorial_app.py" 파일로 실행 가능 합니다.
+알고리즘 factorial_app.py 과제 제출 완료하였습니다. "factorial_app.py" 파일로 실행 가능 합니다.
 <img width="508" height="737" alt="과제 스크린샷3" src="https://github.com/user-attachments/assets/88324449-8436-4433-a899-3eadf0227a5d" />
 
 
