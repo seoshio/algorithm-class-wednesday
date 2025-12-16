@@ -4,7 +4,7 @@ item = ["노트북", "카메라", "책", "옷", "휴대용 충전기"]
 weight = [3, 1, 2, 2, 1]
 value = [12, 10, 6, 7, 4]
 
-n = len(items)
+n = len(item)
 
 W = int(input("배낭 용량을 입력 하세요 : "))
 
@@ -31,9 +31,10 @@ w = W
 for i in range(n, 0, -1):
     if A[i][w] != A[i - 1][w]:
         selected_item.append(item[i - 1])
-        w -= weights[i - 1]
+        w -= weight[i - 1]
 
 selected_item.reverse()
 
 print("최대 만족도:", max_value)
 print("선택된 물건:", selected_item)
+
